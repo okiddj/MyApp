@@ -4,3 +4,5 @@ var mySpan = document.getElementsByTagName('span');
 console.log(login function');
 var myDiv = document.getElementById('myId');
 
+var isLogin = false;
+var isLoginStatus = 'login';
